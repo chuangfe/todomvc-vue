@@ -15,6 +15,4 @@
 
 ## Copyright©
 
-設計稿參考
-
-https://github.com/tastejs/todomvc-app-template
+設計稿參考 https://github.com/tastejs/todomvc-app-template
